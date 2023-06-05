@@ -130,7 +130,6 @@ export const getStaticProps: GetStaticProps = async ({
     props: {},
   };
 };
-
 export async function getStaticPaths() {
   return {
     paths: [],
